@@ -73,7 +73,7 @@ export const projects = [
     description: "Mon portfolio personnel (celui-ci) présentant mes compétences en Cybersécurité et Développement.",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400",
     technos: ["React", "Tailwind", "Lucide"],
-    github: "https://github.com/Elias-453/Elias-Portfolio",
+    github: "https://github.com/Elias-453/NouriYanis-Portfolio",
   },
 ];
 
